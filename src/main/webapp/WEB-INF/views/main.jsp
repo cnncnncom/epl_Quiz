@@ -5,5 +5,6 @@
 </head>
 <body>
     <p>돈 많이 벌어가세요!</p>
+    <p><%= request.getAttribute("accounts") %></p>
 </body>
 </html>
