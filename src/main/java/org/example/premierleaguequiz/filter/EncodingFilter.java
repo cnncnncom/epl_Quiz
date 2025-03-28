@@ -1,4 +1,4 @@
-package org.example.chickenstock.filter;
+package org.example.premierleaguequiz.filter;
 
 import jakarta.servlet.*;
 import jakarta.servlet.http.HttpServletRequest;

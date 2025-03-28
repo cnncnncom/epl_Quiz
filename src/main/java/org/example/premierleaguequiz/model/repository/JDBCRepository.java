@@ -1,4 +1,4 @@
-package org.example.chickenstock.model.repository;
+package org.example.premierleaguequiz.model.repository;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

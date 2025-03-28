@@ -1,4 +1,4 @@
-package org.example.chickenstock.config;
+package org.example.premierleaguequiz.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

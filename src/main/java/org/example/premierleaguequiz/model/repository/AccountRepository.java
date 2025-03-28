@@ -1,7 +1,6 @@
-package org.example.chickenstock.model.repository;
+package org.example.premierleaguequiz.model.repository;
 
 import io.github.cdimascio.dotenv.Dotenv;
-import org.example.chickenstock.model.dto.Account;
 import org.springframework.stereotype.Repository;
 
 import java.sql.Connection;
